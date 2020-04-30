@@ -9,17 +9,16 @@ ___
 
 #### Obtener del usuario dos números y mostrarle la suma.
 
-*Se deberá desarrollar un programa capaz de realizar la adición de dos números enteros ingresados previamente por el usuario y luego mostrar por pantalla el resultado.
-
-
-MODELO IPO
+*Se deberá desarrollar un programa capaz de realizar la adición de dos números enteros ingresados previamente por el usuario y luego mostrar por pantalla el resultado*.
+___
+![](https://github.com/ezventura/AED/blob/master/01-Adicion/Imagenes/IPO.png)
 ___
 
 ## Etapa #2: Diseño de la solución
 
 *Léxico del algoritmo* ---> **a,b ∈ Z**
 
-**TEXTUAL**
+### **TEXTUAL**
 
     using namespace std;
 
@@ -33,7 +32,8 @@ ___
 	
 	  cout << "La suma es: " << a + b;
 
-**VISUAL**
+### **VISUAL**
 
+![](https://github.com/ezventura/AED/blob/master/01-Adicion/Imagenes/VISUAL.png)
 
 
