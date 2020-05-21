@@ -16,5 +16,26 @@ ___
 
 ## Etapa #2: Diseño de la solución
 
+#### INT:
 
+En base a dos numeros, se va a realizar la suma y resta de los mismos.
 
+#### DOUBLE:
+
+En base a dos numeros, se va a realizar la multiplicacion y divison de los mismos.
+
+#### BOOL: 
+
+En base a dos valores booleanos, se va a realizar la operacion AND y OR.
+
+#### UNSIGNED:
+
+En base a 4 notas, se va a realizar el promedio de un alumno.
+
+#### CHAR:
+
+En base a ambos sexos, aclarar el primer caracter.
+
+#### STRING: 
+
+En base a la edad de Juan (82) y Micaela (21), aclarar si es joven o anciano/a.
