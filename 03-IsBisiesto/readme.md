@@ -44,3 +44,8 @@ bool IsBisiesto (unsigned);
 bool IsBisiesto(unsigned anio){                 
 return anio >= 1584 and (anio%4 == 0) and ((anio%100 != 0) or anio%400 == 0);                  
 }
+
+* #### Arbol:
+
+![](https://github.com/ezventura/AED/blob/master/03-IsBisiesto/Arbol.png)
+
