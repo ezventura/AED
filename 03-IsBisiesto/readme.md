@@ -22,16 +22,18 @@ IsBisiesto: **ℕ --> B**
 
 * #### Pruebas:
 
-assert(IsBisiesto(1582));           
-assert(IsBisiesto(1583));       
-assert(IsBisiesto(1584));         
-assert(IsBisiesto(1659));     
-assert(IsBisiesto(1700));      
-assert(IsBisiesto(1899));    
-assert(IsBisiesto(1900));        
-assert(IsBisiesto(1901));      
-assert(IsBisiesto(1999));       
-assert(IsBisiesto(2001));       
+assert(not IsBisiesto(1582));     
+assert(not IsBisiesto(1583));           
+assert(IsBisiesto(1584));               
+assert(not IsBisiesto(1659));              
+assert(not IsBisiesto(1700));               
+assert(IsBisiesto(1820));                 
+assert(not IsBisiesto(1900));             
+assert(not IsBisiesto(1901));              
+assert(not IsBisiesto(1999));               
+assert(IsBisiesto(2000));                
+assert(not IsBisiesto(2001));              
+assert(IsBisiesto(2020));                 
 
 * #### Prototipo:
 
